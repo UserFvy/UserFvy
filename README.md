@@ -1,2 +1,2 @@
 - 👋 Cześć, Jestem @UserFvy
-- 🌱 Uczę się języka JavaScript
+- 🌱 Uczę się języka JavaScript, Python
